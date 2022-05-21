@@ -9,3 +9,9 @@ To Use
 4) Apply Controller2D Script
 5) Apply PlayerMovement Script
 6) Modify Settings In The Inspector
+
+Debugging Folder Is OPTIONAL!
+  It is a modified version of [DebuggingUI](https://github.com/ThirdplaceStudios/DebuggingUI) & more information can be found there.
+  A prefab is included, and all you have to do is fill in the blanks. I think it's pretty straight forward.
+
+For help or contact email contact@thirdplacestudios.ga
